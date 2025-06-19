@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: crimson;
+}
+img{ 
+    max-width: 1000px;
+    margin: auto;
+    display: block;
+}
+p{
+    font-size: xx-large;
+    text-align: justify;
+}
+body{
+    background-color: antiquewhite;
+}
